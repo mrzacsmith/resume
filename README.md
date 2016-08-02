@@ -4,11 +4,13 @@
 
 
 ### Links
-+ (Github)[https://github.com/zrsmith75]
++ [Github](https://github.com/zrsmith75)
 + (Cybrary)[https://www.cybrary.it/members/zrsmith/]
 + (About Me)[https://about.me/zac.smith/edit]
 + Twitter
 + Linked In
 + Hacker Rank
 + Freecode Camp
-+ 
++ YouTube
++ [Coderwall](https://coderwall.com/zrsmith)
++ Stack Overflow
