@@ -5,12 +5,13 @@
 
 ### Links
 + [Github](https://github.com/zrsmith75)
-+ (Cybrary)[https://www.cybrary.it/members/zrsmith/]
-+ (About Me)[https://about.me/zac.smith/edit]
-+ Twitter
-+ Linked In
++ [Cybrary](https://www.cybrary.it/members/zrsmith/)
++ [About Me](https://about.me/zac.smith/)
++ [Twitter](https://twitter.com/RockForestLabs)
++ [Linked In](Public Profilehttps://www.linkedin.com/in/zrsmith5)
 + Hacker Rank
-+ Freecode Camp
-+ YouTube
++ [Freecode Camp](https://www.freecodecamp.com/zrsmith75)
++ [YouTube](http://www.youtube.com/c/ZacSmith75)
 + [Coderwall](https://coderwall.com/zrsmith)
 + Stack Overflow
++ 
